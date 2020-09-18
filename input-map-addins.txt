@@ -1,0 +1,35 @@
+##########################
+### There be mods here ###
+##########################
+
+wc_uniRW-sell-di {
+	+ keyboard	D
+	+ keyboard	Control
+	+ keyboard	Shift
+	- keyboard	Alt
+	- keyboard	BackQuote
+}
+
+wc_uniRW-sell-metal {
+	+ keyboard	M
+	+ keyboard	Control
+	+ keyboard	Shift
+	- keyboard	Alt
+	- keyboard	BackQuote
+}
+
+wc_uniRW-buy-di {
+	+ keyboard	D
+	+ keyboard	Control
+	- keyboard	Shift
+	- keyboard	Alt
+	- keyboard	BackQuote
+}
+
+wc_uniRW-buy-metal {
+	+ keyboard	D
+	+ keyboard	Control
+	- keyboard	Shift
+	- keyboard	Alt
+	- keyboard	BackQuote
+}
