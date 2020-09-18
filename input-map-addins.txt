@@ -27,7 +27,7 @@ wc_uniRW-buy-di {
 }
 
 wc_uniRW-buy-metal {
-	+ keyboard	D
+	+ keyboard	M
 	+ keyboard	Control
 	- keyboard	Shift
 	- keyboard	Alt
