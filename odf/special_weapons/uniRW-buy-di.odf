@@ -16,7 +16,7 @@ classlabel = "replaceweapon"
 special = 1
 
 // Where do you want me?
-buttonslot = 10
+buttonslot = 13
 
 // I spawn an empty thing
 replacement0class0 = "borR_futileA"
