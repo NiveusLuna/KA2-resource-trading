@@ -10,6 +10,7 @@ verboseTooltip = "Sell 1000 Metal"
 // My true purpose in life: MONEY
 metalCost = 1000
 latinumCost = -700
+dilithiumCost = 0
 
 // Where do you want me?
 buttonslot = 13
