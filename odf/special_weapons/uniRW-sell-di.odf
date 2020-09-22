@@ -13,3 +13,6 @@ latinumCost = -700
 
 // Where do you want me?
 buttonslot = 12
+
+// You bad man, using people is bad!
+hotkeyLabel = "GAME-HOTKEY-CTRL_SHIFT_D"
