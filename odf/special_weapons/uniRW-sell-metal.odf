@@ -16,4 +16,4 @@ dilithiumCost = 0
 buttonslot = 13
 
 // You bad man, using people is bad!
-hotkeyLabel = "GAME-HOTKEY-CTRL_SHIFT_M"
+hotkeyLabel = "GAME-HOTKEY-CONTROL_SHIFT_M"

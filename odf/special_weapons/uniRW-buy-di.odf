@@ -46,4 +46,4 @@ speakonattack = 0
 attackspeech = 0
 
 // You bad man, using people is bad!
-hotkeyLabel = "GAME-HOTKEY-CTRL_D"
+hotkeyLabel = "GAME-HOTKEY-CONTROL_D"

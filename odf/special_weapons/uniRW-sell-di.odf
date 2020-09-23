@@ -15,4 +15,4 @@ latinumCost = -700
 buttonslot = 12
 
 // You bad man, using people is bad!
-hotkeyLabel = "GAME-HOTKEY-CTRL_SHIFT_D"
+hotkeyLabel = "GAME-HOTKEY-CONTROL_SHIFT_D"
