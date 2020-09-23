@@ -19,11 +19,11 @@ special = 1
 buttonslot = 10
 
 // I spawn an empty thing
-replacement0class0 = "borR_futile"
+replacement0class0 = "borR_futileA"
 
 // Don't get rid of my spawner!
 replacementKeepOwner = 1
-replacementdontremovefootprint = 1
+replacementdontremovefootprint = 0
 
 // I never autofire
 replacementinstantplayer = 0
