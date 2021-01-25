@@ -23,7 +23,7 @@ classlabel = "resourceweapon"
 special = 1
 
 // Where do you want me?
-buttonslot = 11
+buttonslot = 20
 
 // You bad man, using people is bad!
-hotkeyLabel = "GAME-HOTKEY-CONTROL_M"
+hotkeyLabel = "NO_HOTKEY"
